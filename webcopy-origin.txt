@@ -1,0 +1,216 @@
+Uri: http://cdn.jsinit.directfwd.com/sk-jspark_init.php
+File Name: C:\Downloaded Web Sites\yogiinc.in\sk-jspark_init.php
+Content Type: text/javascript
+
+Uri: http://yogiinc.in/
+File Name: C:\Downloaded Web Sites\yogiinc.in\index.htm
+Content Type: text/html
+
+Uri: http://yogiinc.in/49-2/
+File Name: C:\Downloaded Web Sites\yogiinc.in\49-2\index.htm
+Content Type: text/html
+
+Uri: http://yogiinc.in/about/
+File Name: C:\Downloaded Web Sites\yogiinc.in\about\index.htm
+Content Type: text/html
+
+Uri: http://yogiinc.in/comments/feed/
+File Name: C:\Downloaded Web Sites\yogiinc.in\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://yogiinc.in/contact/
+File Name: C:\Downloaded Web Sites\yogiinc.in\contact\index.htm
+Content Type: text/html
+
+Uri: http://yogiinc.in/feed/
+File Name: C:\Downloaded Web Sites\yogiinc.in\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://yogiinc.in/home/attachment/73910/
+File Name: C:\Downloaded Web Sites\yogiinc.in\home\attachment\73910\index.htm
+Content Type: text/html
+
+Uri: http://yogiinc.in/home/attachment/74530/
+File Name: C:\Downloaded Web Sites\yogiinc.in\home\attachment\74530\index.htm
+Content Type: text/html
+
+Uri: http://yogiinc.in/wp-content/themes/twentyseventeen/assets/css/colors-dark.css?ver=1.0
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\themes\twentyseventeen\assets\css\colors-dark.css
+Content Type: text/css
+
+Uri: http://yogiinc.in/wp-content/themes/twentyseventeen/assets/js/global.js?ver=1.0
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\themes\twentyseventeen\assets\js\global.js
+Content Type: application/javascript
+
+Uri: http://yogiinc.in/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js?ver=2.1.2
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\themes\twentyseventeen\assets\js\jquery.scrollTo.js
+Content Type: application/javascript
+
+Uri: http://yogiinc.in/wp-content/themes/twentyseventeen/assets/js/navigation.js?ver=1.0
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\themes\twentyseventeen\assets\js\navigation.js
+Content Type: application/javascript
+
+Uri: http://yogiinc.in/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js?ver=1.0
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\themes\twentyseventeen\assets\js\skip-link-focus-fix.js
+Content Type: application/javascript
+
+Uri: http://yogiinc.in/wp-content/themes/twentyseventeen/style.css?ver=4.9.20
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\themes\twentyseventeen\style.css
+Content Type: text/css
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/73910-100x100.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\73910-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/73910-150x150.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\73910-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/74530-100x100.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\74530-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/74530-150x150.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\74530-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/74540-300x200.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\74540-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/74540-768x512.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\74540-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/74540.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\74540.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-71540-1024x614.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-71540-1024x614.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-71540-300x180.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-71540-300x180.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-71540-768x461.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-71540-768x461.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-71540.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-71540.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-74640.00-180x180.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-74640.00-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-74640.00-192x192.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-74640.00-192x192.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-74640.00-32x32.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-74640.00-32x32.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-logo-100x100.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-logo-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-logo-150x150.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-logo-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-content/uploads/2018/04/cropped-logo.jpg
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-content\uploads\2018\04\cropped-logo.jpg
+Content Type: image/jpeg
+
+Uri: http://yogiinc.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://yogiinc.in/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://yogiinc.in/wp-includes/js/wp-embed.min.js?ver=4.9.20
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://yogiinc.in/wp-json/
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://yogiinc.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fyogiinc.in%2F
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://yogiinc.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fyogiinc.in%2F&format=xml
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://yogiinc.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fyogiinc.in%2F49-2%2F
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://yogiinc.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fyogiinc.in%2F49-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://yogiinc.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fyogiinc.in%2Fabout%2F
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://yogiinc.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fyogiinc.in%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://yogiinc.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fyogiinc.in%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://yogiinc.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fyogiinc.in%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\yogiinc.in\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://yogiinc.in/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\yogiinc.in\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Libre+Franklin:300%2C300i%2C400%2C400i%2C600%2C600i%2C800%2C800i&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\yogiinc.in\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ-DFR-M.ttf
+File Name: C:\Downloaded Web Sites\yogiinc.in\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ-DFR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q-DFR-M.ttf
+File Name: C:\Downloaded Web Sites\yogiinc.in\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q-DFR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRODFR-M.ttf
+File Name: C:\Downloaded Web Sites\yogiinc.in\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRODFR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RODFR-M.ttf
+File Name: C:\Downloaded Web Sites\yogiinc.in\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RODFR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKkDtDM.ttf
+File Name: C:\Downloaded Web Sites\yogiinc.in\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKkDtDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWkDtDM.ttf
+File Name: C:\Downloaded Web Sites\yogiinc.in\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWkDtDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkDtDM.ttf
+File Name: C:\Downloaded Web Sites\yogiinc.in\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkDtDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKkDtDM.ttf
+File Name: C:\Downloaded Web Sites\yogiinc.in\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKkDtDM.ttf
+Content Type: font/ttf
+
